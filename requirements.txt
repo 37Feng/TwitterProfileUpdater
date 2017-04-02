@@ -1,0 +1,10 @@
+colorama==0.3.7
+colormap==1.0.0
+easydev==0.9.31
+oauthlib==2.0.1
+pexpect==4.2.1
+pkg-resources==0.0.0
+ptyprocess==0.5.1
+requests==2.12.5
+requests-oauthlib==0.7.0
+twython==3.4.0
